@@ -1,0 +1,801 @@
+,,Name,Type 1,HP,Attack,Defense,weapon
+1,Bulbasaur,Grass,air,45,49,49,punch
+2,Ivysaur,Grass,air,60,62,63,punch
+3,Venusaur,Grass,air,80,82,83,punch
+3,VenusaurMega Venusaur,Grass,air,80,100,123,punch
+4,Charmander,Fire,air,39,52,43,punch
+5,Charmeleon,Fire,air,58,64,58,punch
+6,Charizard,Fire,air,78,84,78,punch
+6,CharizardMega Charizard X,Fire,air,78,130,111,punch
+6,CharizardMega Charizard Y,Fire,air,78,104,78,punch
+7,Squirtle,Water,air,44,48,65,punch
+8,Wartortle,Water,air,59,63,80,punch
+9,Blastoise,Water,air,79,83,100,punch
+9,BlastoiseMega Blastoise,Water,air,79,103,120,punch
+10,Caterpie,Bug,air,45,30,35,punch
+11,Metapod,Bug,air,50,20,55,punch
+12,Butterfree,Bug,air,60,45,50,punch
+13,Weedle,Bug,air,40,35,30,punch
+14,Kakuna,Bug,air,45,25,50,punch
+15,Beedrill,Bug,air,65,90,40,punch
+15,BeedrillMega Beedrill,Bug,air,65,150,40,punch
+16,Pidgey,Normal,air,40,45,40,punch
+17,Pidgeotto,Normal,air,63,60,55,punch
+18,Pidgeot,Normal,air,83,80,75,punch
+18,PidgeotMega Pidgeot,Normal,air,83,80,80,punch
+19,Rattata,Normal,air,30,56,35,punch
+20,Raticate,Normal,air,55,81,60,punch
+21,Spearow,Normal,air,40,60,30,punch
+22,Fearow,Normal,air,65,90,65,punch
+23,Ekans,Poison,air,35,60,44,punch
+24,Arbok,Poison,air,60,85,69,punch
+25,Pikachu,Electric,air,35,55,40,punch
+26,Raichu,Electric,air,60,90,55,punch
+27,Sandshrew,Ground,air,50,75,85,punch
+28,Sandslash,Ground,air,75,100,110,punch
+29,Nidoran♀,Poison,air,55,47,52,punch
+30,Nidorina,Poison,air,70,62,67,punch
+31,Nidoqueen,Poison,air,90,92,87,punch
+32,Nidoran♂,Poison,air,46,57,40,punch
+33,Nidorino,Poison,air,61,72,57,punch
+34,Nidoking,Poison,air,81,102,77,punch
+35,Clefairy,Fairy,air,70,45,48,punch
+36,Clefable,Fairy,air,95,70,73,punch
+37,Vulpix,Fire,air,38,41,40,punch
+38,Ninetales,Fire,air,73,76,75,punch
+39,Jigglypuff,Normal,air,115,45,20,punch
+40,Wigglytuff,Normal,air,140,70,45,punch
+41,Zubat,Poison,air,40,45,35,punch
+42,Golbat,Poison,air,75,80,70,punch
+43,Oddish,Grass,air,45,50,55,punch
+44,Gloom,Grass,air,60,65,70,punch
+45,Vileplume,Grass,air,75,80,85,punch
+46,Paras,Bug,air,35,70,55,punch
+47,Parasect,Bug,air,60,95,80,punch
+48,Venonat,Bug,air,60,55,50,punch
+49,Venomoth,Bug,air,70,65,60,punch
+50,Diglett,Ground,air,10,55,25,punch
+51,Dugtrio,Ground,air,35,80,50,punch
+52,Meowth,Normal,air,40,45,35,punch
+53,Persian,Normal,air,65,70,60,punch
+54,Psyduck,Water,air,50,52,48,punch
+55,Golduck,Water,air,80,82,78,punch
+56,Mankey,Fighting,air,40,80,35,punch
+57,Primeape,Fighting,air,65,105,60,punch
+58,Growlithe,Fire,air,55,70,45,punch
+59,Arcanine,Fire,air,90,110,80,punch
+60,Poliwag,Water,air,40,50,40,punch
+61,Poliwhirl,Water,air,65,65,65,punch
+62,Poliwrath,Water,air,90,95,95,punch
+63,Abra,Psychic,air,25,20,15,punch
+64,Kadabra,Psychic,air,40,35,30,punch
+65,Alakazam,Psychic,air,55,50,45,punch
+65,AlakazamMega Alakazam,Psychic,air,55,50,65,punch
+66,Machop,Fighting,air,70,80,50,punch
+67,Machoke,Fighting,air,80,100,70,punch
+68,Machamp,Fighting,air,90,130,80,punch
+69,Bellsprout,Grass,air,50,75,35,punch
+70,Weepinbell,Grass,air,65,90,50,punch
+71,Victreebel,Grass,air,80,105,65,punch
+72,Tentacool,Water,air,40,40,35,punch
+73,Tentacruel,Water,air,80,70,65,punch
+74,Geodude,Rock,air,40,80,100,punch
+75,Graveler,Rock,air,55,95,115,punch
+76,Golem,Rock,air,80,120,130,punch
+77,Ponyta,Fire,air,50,85,55,punch
+78,Rapidash,Fire,air,65,100,70,punch
+79,Slowpoke,Water,air,90,65,65,punch
+80,Slowbro,Water,air,95,75,110,punch
+80,SlowbroMega Slowbro,Water,air,95,75,180,punch
+81,Magnemite,Electric,air,25,35,70,punch
+82,Magneton,Electric,air,50,60,95,punch
+83,Farfetch'd,Normal,air,52,65,55,punch
+84,Doduo,Normal,air,35,85,45,punch
+85,Dodrio,Normal,air,60,110,70,punch
+86,Seel,Water,air,65,45,55,punch
+87,Dewgong,Water,air,90,70,80,punch
+88,Grimer,Poison,air,80,80,50,punch
+89,Muk,Poison,air,105,105,75,punch
+90,Shellder,Water,air,30,65,100,punch
+91,Cloyster,Water,air,50,95,180,punch
+92,Gastly,Ghost,air,30,35,30,punch
+93,Haunter,Ghost,air,45,50,45,punch
+94,Gengar,Ghost,air,60,65,60,punch
+94,GengarMega Gengar,Ghost,air,60,65,80,punch
+95,Onix,Rock,air,35,45,160,punch
+96,Drowzee,Psychic,air,60,48,45,punch
+97,Hypno,Psychic,air,85,73,70,punch
+98,Krabby,Water,air,30,105,90,punch
+99,Kingler,Water,air,55,130,115,punch
+100,Voltorb,Electric,air,40,30,50,punch
+101,Electrode,Electric,air,60,50,70,punch
+102,Exeggcute,Grass,air,60,40,80,punch
+103,Exeggutor,Grass,air,95,95,85,punch
+104,Cubone,Ground,air,50,50,95,punch
+105,Marowak,Ground,air,60,80,110,punch
+106,Hitmonlee,Fighting,air,50,120,53,punch
+107,Hitmonchan,Fighting,air,50,105,79,punch
+108,Lickitung,Normal,air,90,55,75,punch
+109,Koffing,Poison,air,40,65,95,punch
+110,Weezing,Poison,air,65,90,120,punch
+111,Rhyhorn,Ground,air,80,85,95,punch
+112,Rhydon,Ground,air,105,130,120,punch
+113,Chansey,Normal,air,250,5,5,punch
+114,Tangela,Grass,air,65,55,115,punch
+115,Kangaskhan,Normal,air,105,95,80,punch
+115,KangaskhanMega Kangaskhan,Normal,air,105,125,100,punch
+116,Horsea,Water,air,30,40,70,punch
+117,Seadra,Water,air,55,65,95,punch
+118,Goldeen,Water,air,45,67,60,punch
+119,Seaking,Water,air,80,92,65,punch
+120,Staryu,Water,air,30,45,55,punch
+121,Starmie,Water,air,60,75,85,punch
+122,Mr. Mime,Psychic,air,40,45,65,punch
+123,Scyther,Bug,air,70,110,80,punch
+124,Jynx,Ice,air,65,50,35,punch
+125,Electabuzz,Electric,air,65,83,57,punch
+126,Magmar,Fire,air,65,95,57,punch
+127,Pinsir,Bug,air,65,125,100,punch
+127,PinsirMega Pinsir,Bug,air,65,155,120,punch
+128,Tauros,Normal,air,75,100,95,punch
+129,Magikarp,Water,air,20,10,55,punch
+130,Gyarados,Water,air,95,125,79,punch
+130,GyaradosMega Gyarados,Water,air,95,155,109,punch
+131,Lapras,Water,air,130,85,80,punch
+132,Ditto,Normal,air,48,48,48,punch
+133,Eevee,Normal,air,55,55,50,punch
+134,Vaporeon,Water,air,130,65,60,punch
+135,Jolteon,Electric,air,65,65,60,punch
+136,Flareon,Fire,air,65,130,60,punch
+137,Porygon,Normal,air,65,60,70,punch
+138,Omanyte,Rock,air,35,40,100,punch
+139,Omastar,Rock,air,70,60,125,punch
+140,Kabuto,Rock,air,30,80,90,punch
+141,Kabutops,Rock,air,60,115,105,punch
+142,Aerodactyl,Rock,air,80,105,65,punch
+142,AerodactylMega Aerodactyl,Rock,air,80,135,85,punch
+143,Snorlax,Normal,air,160,110,65,punch
+144,Articuno,Ice,air,90,85,100,punch
+145,Zapdos,Electric,air,90,90,85,punch
+146,Moltres,Fire,air,90,100,90,punch
+147,Dratini,Dragon,air,41,64,45,punch
+148,Dragonair,Dragon,air,61,84,65,punch
+149,Dragonite,Dragon,air,91,134,95,punch
+150,Mewtwo,Psychic,air,106,110,90,punch
+150,MewtwoMega Mewtwo X,Psychic,air,106,190,100,punch
+150,MewtwoMega Mewtwo Y,Psychic,air,106,150,70,punch
+151,Mew,Psychic,air,100,100,100,punch
+152,Chikorita,Grass,air,45,49,65,punch
+153,Bayleef,Grass,air,60,62,80,punch
+154,Meganium,Grass,air,80,82,100,punch
+155,Cyndaquil,Fire,air,39,52,43,punch
+156,Quilava,Fire,air,58,64,58,punch
+157,Typhlosion,Fire,air,78,84,78,punch
+158,Totodile,Water,air,50,65,64,punch
+159,Croconaw,Water,air,65,80,80,punch
+160,Feraligatr,Water,air,85,105,100,punch
+161,Sentret,Normal,air,35,46,34,punch
+162,Furret,Normal,air,85,76,64,punch
+163,Hoothoot,Normal,air,60,30,30,punch
+164,Noctowl,Normal,air,100,50,50,punch
+165,Ledyba,Bug,air,40,20,30,punch
+166,Ledian,Bug,air,55,35,50,punch
+167,Spinarak,Bug,air,40,60,40,punch
+168,Ariados,Bug,air,70,90,70,punch
+169,Crobat,Poison,air,85,90,80,punch
+170,Chinchou,Water,air,75,38,38,punch
+171,Lanturn,Water,air,125,58,58,punch
+172,Pichu,Electric,air,20,40,15,punch
+173,Cleffa,Fairy,air,50,25,28,punch
+174,Igglybuff,Normal,air,90,30,15,punch
+175,Togepi,Fairy,air,35,20,65,punch
+176,Togetic,Fairy,air,55,40,85,punch
+177,Natu,Psychic,air,40,50,45,punch
+178,Xatu,Psychic,air,65,75,70,punch
+179,Mareep,Electric,air,55,40,40,punch
+180,Flaaffy,Electric,air,70,55,55,punch
+181,Ampharos,Electric,air,90,75,85,punch
+181,AmpharosMega Ampharos,Electric,air,90,95,105,punch
+182,Bellossom,Grass,air,75,80,95,punch
+183,Marill,Water,air,70,20,50,punch
+184,Azumarill,Water,air,100,50,80,punch
+185,Sudowoodo,Rock,air,70,100,115,punch
+186,Politoed,Water,air,90,75,75,punch
+187,Hoppip,Grass,air,35,35,40,punch
+188,Skiploom,Grass,air,55,45,50,punch
+189,Jumpluff,Grass,air,75,55,70,punch
+190,Aipom,Normal,air,55,70,55,punch
+191,Sunkern,Grass,air,30,30,30,punch
+192,Sunflora,Grass,air,75,75,55,punch
+193,Yanma,Bug,air,65,65,45,punch
+194,Wooper,Water,air,55,45,45,punch
+195,Quagsire,Water,air,95,85,85,punch
+196,Espeon,Psychic,air,65,65,60,punch
+197,Umbreon,Dark,air,95,65,110,punch
+198,Murkrow,Dark,air,60,85,42,punch
+199,Slowking,Water,air,95,75,80,punch
+200,Misdreavus,Ghost,air,60,60,60,punch
+201,Unown,Psychic,air,48,72,48,punch
+202,Wobbuffet,Psychic,air,190,33,58,punch
+203,Girafarig,Normal,air,70,80,65,punch
+204,Pineco,Bug,air,50,65,90,punch
+205,Forretress,Bug,air,75,90,140,punch
+206,Dunsparce,Normal,air,100,70,70,punch
+207,Gligar,Ground,air,65,75,105,punch
+208,Steelix,Steel,air,75,85,200,punch
+208,SteelixMega Steelix,Steel,air,75,125,230,punch
+209,Snubbull,Fairy,air,60,80,50,punch
+210,Granbull,Fairy,air,90,120,75,punch
+211,Qwilfish,Water,air,65,95,75,punch
+212,Scizor,Bug,air,70,130,100,punch
+212,ScizorMega Scizor,Bug,air,70,150,140,punch
+213,Shuckle,Bug,air,20,10,230,punch
+214,Heracross,Bug,air,80,125,75,punch
+214,HeracrossMega Heracross,Bug,air,80,185,115,punch
+215,Sneasel,Dark,air,55,95,55,punch
+216,Teddiursa,Normal,air,60,80,50,punch
+217,Ursaring,Normal,air,90,130,75,punch
+218,Slugma,Fire,air,40,40,40,punch
+219,Magcargo,Fire,air,50,50,120,punch
+220,Swinub,Ice,air,50,50,40,punch
+221,Piloswine,Ice,air,100,100,80,punch
+222,Corsola,Water,air,55,55,85,punch
+223,Remoraid,Water,air,35,65,35,punch
+224,Octillery,Water,air,75,105,75,punch
+225,Delibird,Ice,air,45,55,45,punch
+226,Mantine,Water,air,65,40,70,punch
+227,Skarmory,Steel,air,65,80,140,punch
+228,Houndour,Dark,air,45,60,30,punch
+229,Houndoom,Dark,air,75,90,50,punch
+229,HoundoomMega Houndoom,Dark,air,75,90,90,punch
+230,Kingdra,Water,air,75,95,95,punch
+231,Phanpy,Ground,air,90,60,60,punch
+232,Donphan,Ground,air,90,120,120,punch
+233,Porygon2,Normal,air,85,80,90,punch
+234,Stantler,Normal,air,73,95,62,punch
+235,Smeargle,Normal,air,55,20,35,punch
+236,Tyrogue,Fighting,air,35,35,35,punch
+237,Hitmontop,Fighting,air,50,95,95,punch
+238,Smoochum,Ice,air,45,30,15,punch
+239,Elekid,Electric,air,45,63,37,punch
+240,Magby,Fire,air,45,75,37,punch
+241,Miltank,Normal,air,95,80,105,punch
+242,Blissey,Normal,air,255,10,10,punch
+243,Raikou,Electric,air,90,85,75,punch
+244,Entei,Fire,air,115,115,85,punch
+245,Suicune,Water,air,100,75,115,punch
+246,Larvitar,Rock,air,50,64,50,punch
+247,Pupitar,Rock,air,70,84,70,punch
+248,Tyranitar,Rock,air,100,134,110,punch
+248,TyranitarMega Tyranitar,Rock,air,100,164,150,punch
+249,Lugia,Psychic,air,106,90,130,punch
+250,Ho-oh,Fire,air,106,130,90,punch
+251,Celebi,Psychic,air,100,100,100,punch
+252,Treecko,Grass,air,40,45,35,punch
+253,Grovyle,Grass,air,50,65,45,punch
+254,Sceptile,Grass,air,70,85,65,punch
+254,SceptileMega Sceptile,Grass,air,70,110,75,punch
+255,Torchic,Fire,air,45,60,40,punch
+256,Combusken,Fire,air,60,85,60,punch
+257,Blaziken,Fire,air,80,120,70,punch
+257,BlazikenMega Blaziken,Fire,air,80,160,80,punch
+258,Mudkip,Water,air,50,70,50,punch
+259,Marshtomp,Water,air,70,85,70,punch
+260,Swampert,Water,air,100,110,90,punch
+260,SwampertMega Swampert,Water,air,100,150,110,punch
+261,Poochyena,Dark,air,35,55,35,punch
+262,Mightyena,Dark,air,70,90,70,punch
+263,Zigzagoon,Normal,air,38,30,41,punch
+264,Linoone,Normal,air,78,70,61,punch
+265,Wurmple,Bug,air,45,45,35,punch
+266,Silcoon,Bug,air,50,35,55,punch
+267,Beautifly,Bug,air,60,70,50,punch
+268,Cascoon,Bug,air,50,35,55,punch
+269,Dustox,Bug,air,60,50,70,punch
+270,Lotad,Water,air,40,30,30,punch
+271,Lombre,Water,air,60,50,50,punch
+272,Ludicolo,Water,air,80,70,70,punch
+273,Seedot,Grass,air,40,40,50,punch
+274,Nuzleaf,Grass,air,70,70,40,punch
+275,Shiftry,Grass,air,90,100,60,punch
+276,Taillow,Normal,air,40,55,30,punch
+277,Swellow,Normal,air,60,85,60,punch
+278,Wingull,Water,air,40,30,30,punch
+279,Pelipper,Water,air,60,50,100,punch
+280,Ralts,Psychic,air,28,25,25,punch
+281,Kirlia,Psychic,air,38,35,35,punch
+282,Gardevoir,Psychic,air,68,65,65,punch
+282,GardevoirMega Gardevoir,Psychic,air,68,85,65,punch
+283,Surskit,Bug,air,40,30,32,punch
+284,Masquerain,Bug,air,70,60,62,punch
+285,Shroomish,Grass,air,60,40,60,punch
+286,Breloom,Grass,air,60,130,80,punch
+287,Slakoth,Normal,air,60,60,60,punch
+288,Vigoroth,Normal,air,80,80,80,punch
+289,Slaking,Normal,air,150,160,100,punch
+290,Nincada,Bug,air,31,45,90,punch
+291,Ninjask,Bug,air,61,90,45,punch
+292,Shedinja,Bug,air,1,90,45,punch
+293,Whismur,Normal,air,64,51,23,punch
+294,Loudred,Normal,air,84,71,43,punch
+295,Exploud,Normal,air,104,91,63,punch
+296,Makuhita,Fighting,air,72,60,30,punch
+297,Hariyama,Fighting,air,144,120,60,punch
+298,Azurill,Normal,air,50,20,40,punch
+299,Nosepass,Rock,air,30,45,135,punch
+300,Skitty,Normal,air,50,45,45,punch
+301,Delcatty,Normal,air,70,65,65,punch
+302,Sableye,Dark,air,50,75,75,punch
+302,SableyeMega Sableye,Dark,air,50,85,125,punch
+303,Mawile,Steel,air,50,85,85,punch
+303,MawileMega Mawile,Steel,air,50,105,125,punch
+304,Aron,Steel,air,50,70,100,punch
+305,Lairon,Steel,air,60,90,140,punch
+306,Aggron,Steel,air,70,110,180,punch
+306,AggronMega Aggron,Steel,air,70,140,230,punch
+307,Meditite,Fighting,air,30,40,55,punch
+308,Medicham,Fighting,air,60,60,75,punch
+308,MedichamMega Medicham,Fighting,air,60,100,85,punch
+309,Electrike,Electric,air,40,45,40,punch
+310,Manectric,Electric,air,70,75,60,punch
+310,ManectricMega Manectric,Electric,air,70,75,80,punch
+311,Plusle,Electric,air,60,50,40,punch
+312,Minun,Electric,air,60,40,50,punch
+313,Volbeat,Bug,air,65,73,55,punch
+314,Illumise,Bug,air,65,47,55,punch
+315,Roselia,Grass,air,50,60,45,punch
+316,Gulpin,Poison,air,70,43,53,punch
+317,Swalot,Poison,air,100,73,83,punch
+318,Carvanha,Water,air,45,90,20,punch
+319,Sharpedo,Water,air,70,120,40,punch
+319,SharpedoMega Sharpedo,Water,air,70,140,70,punch
+320,Wailmer,Water,air,130,70,35,punch
+321,Wailord,Water,air,170,90,45,punch
+322,Numel,Fire,air,60,60,40,punch
+323,Camerupt,Fire,air,70,100,70,punch
+323,CameruptMega Camerupt,Fire,air,70,120,100,punch
+324,Torkoal,Fire,air,70,85,140,punch
+325,Spoink,Psychic,air,60,25,35,punch
+326,Grumpig,Psychic,air,80,45,65,punch
+327,Spinda,Normal,air,60,60,60,punch
+328,Trapinch,Ground,air,45,100,45,punch
+329,Vibrava,Ground,air,50,70,50,punch
+330,Flygon,Ground,air,80,100,80,punch
+331,Cacnea,Grass,air,50,85,40,punch
+332,Cacturne,Grass,air,70,115,60,punch
+333,Swablu,Normal,air,45,40,60,punch
+334,Altaria,Dragon,air,75,70,90,punch
+334,AltariaMega Altaria,Dragon,air,75,110,110,punch
+335,Zangoose,Normal,air,73,115,60,punch
+336,Seviper,Poison,air,73,100,60,punch
+337,Lunatone,Rock,air,70,55,65,punch
+338,Solrock,Rock,air,70,95,85,punch
+339,Barboach,Water,air,50,48,43,punch
+340,Whiscash,Water,air,110,78,73,punch
+341,Corphish,Water,air,43,80,65,punch
+342,Crawdaunt,Water,air,63,120,85,punch
+343,Baltoy,Ground,air,40,40,55,punch
+344,Claydol,Ground,air,60,70,105,punch
+345,Lileep,Rock,air,66,41,77,punch
+346,Cradily,Rock,air,86,81,97,punch
+347,Anorith,Rock,air,45,95,50,punch
+348,Armaldo,Rock,air,75,125,100,punch
+349,Feebas,Water,air,20,15,20,punch
+350,Milotic,Water,air,95,60,79,punch
+351,Castform,Normal,air,70,70,70,punch
+352,Kecleon,Normal,air,60,90,70,punch
+353,Shuppet,Ghost,air,44,75,35,punch
+354,Banette,Ghost,air,64,115,65,punch
+354,BanetteMega Banette,Ghost,air,64,165,75,punch
+355,Duskull,Ghost,air,20,40,90,punch
+356,Dusclops,Ghost,air,40,70,130,punch
+357,Tropius,Grass,air,99,68,83,punch
+358,Chimecho,Psychic,air,65,50,70,punch
+359,Absol,Dark,air,65,130,60,punch
+359,AbsolMega Absol,Dark,air,65,150,60,punch
+360,Wynaut,Psychic,air,95,23,48,punch
+361,Snorunt,Ice,air,50,50,50,punch
+362,Glalie,Ice,air,80,80,80,punch
+362,GlalieMega Glalie,Ice,air,80,120,80,punch
+363,Spheal,Ice,air,70,40,50,punch
+364,Sealeo,Ice,air,90,60,70,punch
+365,Walrein,Ice,air,110,80,90,punch
+366,Clamperl,Water,air,35,64,85,punch
+367,Huntail,Water,air,55,104,105,punch
+368,Gorebyss,Water,air,55,84,105,punch
+369,Relicanth,Water,air,100,90,130,punch
+370,Luvdisc,Water,air,43,30,55,punch
+371,Bagon,Dragon,air,45,75,60,punch
+372,Shelgon,Dragon,air,65,95,100,punch
+373,Salamence,Dragon,air,95,135,80,punch
+373,SalamenceMega Salamence,Dragon,air,95,145,130,punch
+374,Beldum,Steel,air,40,55,80,punch
+375,Metang,Steel,air,60,75,100,punch
+376,Metagross,Steel,air,80,135,130,punch
+376,MetagrossMega Metagross,Steel,air,80,145,150,punch
+377,Regirock,Rock,air,80,100,200,punch
+378,Regice,Ice,air,80,50,100,punch
+379,Registeel,Steel,air,80,75,150,punch
+380,Latias,Dragon,air,80,80,90,punch
+380,LatiasMega Latias,Dragon,air,80,100,120,punch
+381,Latios,Dragon,air,80,90,80,punch
+381,LatiosMega Latios,Dragon,air,80,130,100,punch
+382,Kyogre,Water,air,100,100,90,punch
+382,KyogrePrimal Kyogre,Water,air,100,150,90,punch
+383,Groudon,Ground,air,100,150,140,punch
+383,GroudonPrimal Groudon,Ground,air,100,180,160,punch
+384,Rayquaza,Dragon,air,105,150,90,punch
+384,RayquazaMega Rayquaza,Dragon,air,105,180,100,punch
+385,Jirachi,Steel,air,100,100,100,punch
+386,DeoxysNormal Forme,Psychic,air,50,150,50,punch
+386,DeoxysAttack Forme,Psychic,air,50,180,20,punch
+386,DeoxysDefense Forme,Psychic,air,50,70,160,punch
+386,DeoxysSpeed Forme,Psychic,air,50,95,90,punch
+387,Turtwig,Grass,air,55,68,64,punch
+388,Grotle,Grass,air,75,89,85,punch
+389,Torterra,Grass,air,95,109,105,punch
+390,Chimchar,Fire,air,44,58,44,punch
+391,Monferno,Fire,air,64,78,52,punch
+392,Infernape,Fire,air,76,104,71,punch
+393,Piplup,Water,air,53,51,53,punch
+394,Prinplup,Water,air,64,66,68,punch
+395,Empoleon,Water,air,84,86,88,punch
+396,Starly,Normal,air,40,55,30,punch
+397,Staravia,Normal,air,55,75,50,punch
+398,Staraptor,Normal,air,85,120,70,punch
+399,Bidoof,Normal,air,59,45,40,punch
+400,Bibarel,Normal,air,79,85,60,punch
+401,Kricketot,Bug,air,37,25,41,punch
+402,Kricketune,Bug,air,77,85,51,punch
+403,Shinx,Electric,air,45,65,34,punch
+404,Luxio,Electric,air,60,85,49,punch
+405,Luxray,Electric,air,80,120,79,punch
+406,Budew,Grass,air,40,30,35,punch
+407,Roserade,Grass,air,60,70,65,punch
+408,Cranidos,Rock,air,67,125,40,punch
+409,Rampardos,Rock,air,97,165,60,punch
+410,Shieldon,Rock,air,30,42,118,punch
+411,Bastiodon,Rock,air,60,52,168,punch
+412,Burmy,Bug,air,40,29,45,punch
+413,WormadamPlant Cloak,Bug,air,60,59,85,punch
+413,WormadamSandy Cloak,Bug,air,60,79,105,punch
+413,WormadamTrash Cloak,Bug,air,60,69,95,punch
+414,Mothim,Bug,air,70,94,50,punch
+415,Combee,Bug,air,30,30,42,punch
+416,Vespiquen,Bug,air,70,80,102,punch
+417,Pachirisu,Electric,air,60,45,70,punch
+418,Buizel,Water,air,55,65,35,punch
+419,Floatzel,Water,air,85,105,55,punch
+420,Cherubi,Grass,air,45,35,45,punch
+421,Cherrim,Grass,air,70,60,70,punch
+422,Shellos,Water,air,76,48,48,punch
+423,Gastrodon,Water,air,111,83,68,punch
+424,Ambipom,Normal,air,75,100,66,punch
+425,Drifloon,Ghost,air,90,50,34,punch
+426,Drifblim,Ghost,air,150,80,44,punch
+427,Buneary,Normal,air,55,66,44,punch
+428,Lopunny,Normal,air,65,76,84,punch
+428,LopunnyMega Lopunny,Normal,air,65,136,94,punch
+429,Mismagius,Ghost,air,60,60,60,punch
+430,Honchkrow,Dark,air,100,125,52,punch
+431,Glameow,Normal,air,49,55,42,punch
+432,Purugly,Normal,air,71,82,64,punch
+433,Chingling,Psychic,air,45,30,50,punch
+434,Stunky,Poison,air,63,63,47,punch
+435,Skuntank,Poison,air,103,93,67,punch
+436,Bronzor,Steel,air,57,24,86,punch
+437,Bronzong,Steel,air,67,89,116,punch
+438,Bonsly,Rock,air,50,80,95,punch
+439,Mime Jr.,Psychic,air,20,25,45,punch
+440,Happiny,Normal,air,100,5,5,punch
+441,Chatot,Normal,air,76,65,45,punch
+442,Spiritomb,Ghost,air,50,92,108,punch
+443,Gible,Dragon,air,58,70,45,punch
+444,Gabite,Dragon,air,68,90,65,punch
+445,Garchomp,Dragon,air,108,130,95,punch
+445,GarchompMega Garchomp,Dragon,air,108,170,115,punch
+446,Munchlax,Normal,air,135,85,40,punch
+447,Riolu,Fighting,air,40,70,40,punch
+448,Lucario,Fighting,air,70,110,70,punch
+448,LucarioMega Lucario,Fighting,air,70,145,88,punch
+449,Hippopotas,Ground,air,68,72,78,punch
+450,Hippowdon,Ground,air,108,112,118,punch
+451,Skorupi,Poison,air,40,50,90,punch
+452,Drapion,Poison,air,70,90,110,punch
+453,Croagunk,Poison,air,48,61,40,punch
+454,Toxicroak,Poison,air,83,106,65,punch
+455,Carnivine,Grass,air,74,100,72,punch
+456,Finneon,Water,air,49,49,56,punch
+457,Lumineon,Water,air,69,69,76,punch
+458,Mantyke,Water,air,45,20,50,punch
+459,Snover,Grass,air,60,62,50,punch
+460,Abomasnow,Grass,air,90,92,75,punch
+460,AbomasnowMega Abomasnow,Grass,air,90,132,105,punch
+461,Weavile,Dark,air,70,120,65,punch
+462,Magnezone,Electric,air,70,70,115,punch
+463,Lickilicky,Normal,air,110,85,95,punch
+464,Rhyperior,Ground,air,115,140,130,punch
+465,Tangrowth,Grass,air,100,100,125,punch
+466,Electivire,Electric,air,75,123,67,punch
+467,Magmortar,Fire,air,75,95,67,punch
+468,Togekiss,Fairy,air,85,50,95,punch
+469,Yanmega,Bug,air,86,76,86,punch
+470,Leafeon,Grass,air,65,110,130,punch
+471,Glaceon,Ice,air,65,60,110,punch
+472,Gliscor,Ground,air,75,95,125,punch
+473,Mamoswine,Ice,air,110,130,80,punch
+474,Porygon-Z,Normal,air,85,80,70,punch
+475,Gallade,Psychic,air,68,125,65,punch
+475,GalladeMega Gallade,Psychic,air,68,165,95,punch
+476,Probopass,Rock,air,60,55,145,punch
+477,Dusknoir,Ghost,air,45,100,135,punch
+478,Froslass,Ice,air,70,80,70,punch
+479,Rotom,Electric,air,50,50,77,punch
+479,RotomHeat Rotom,Electric,air,50,65,107,punch
+479,RotomWash Rotom,Electric,air,50,65,107,punch
+479,RotomFrost Rotom,Electric,air,50,65,107,punch
+479,RotomFan Rotom,Electric,air,50,65,107,punch
+479,RotomMow Rotom,Electric,air,50,65,107,punch
+480,Uxie,Psychic,air,75,75,130,punch
+481,Mesprit,Psychic,air,80,105,105,punch
+482,Azelf,Psychic,air,75,125,70,punch
+483,Dialga,Steel,air,100,120,120,punch
+484,Palkia,Water,air,90,120,100,punch
+485,Heatran,Fire,air,91,90,106,punch
+486,Regigigas,Normal,air,110,160,110,punch
+487,GiratinaAltered Forme,Ghost,air,150,100,120,punch
+487,GiratinaOrigin Forme,Ghost,air,150,120,100,punch
+488,Cresselia,Psychic,air,120,70,120,punch
+489,Phione,Water,air,80,80,80,punch
+490,Manaphy,Water,air,100,100,100,punch
+491,Darkrai,Dark,air,70,90,90,punch
+492,ShayminLand Forme,Grass,air,100,100,100,punch
+492,ShayminSky Forme,Grass,air,100,103,75,punch
+493,Arceus,Normal,air,120,120,120,punch
+494,Victini,Psychic,air,100,100,100,punch
+495,Snivy,Grass,air,45,45,55,punch
+496,Servine,Grass,air,60,60,75,punch
+497,Serperior,Grass,air,75,75,95,punch
+498,Tepig,Fire,air,65,63,45,punch
+499,Pignite,Fire,air,90,93,55,punch
+500,Emboar,Fire,air,110,123,65,punch
+501,Oshawott,Water,air,55,55,45,punch
+502,Dewott,Water,air,75,75,60,punch
+503,Samurott,Water,air,95,100,85,punch
+504,Patrat,Normal,air,45,55,39,punch
+505,Watchog,Normal,air,60,85,69,punch
+506,Lillipup,Normal,air,45,60,45,punch
+507,Herdier,Normal,air,65,80,65,punch
+508,Stoutland,Normal,air,85,110,90,punch
+509,Purrloin,Dark,air,41,50,37,punch
+510,Liepard,Dark,air,64,88,50,punch
+511,Pansage,Grass,air,50,53,48,punch
+512,Simisage,Grass,air,75,98,63,punch
+513,Pansear,Fire,air,50,53,48,punch
+514,Simisear,Fire,air,75,98,63,punch
+515,Panpour,Water,air,50,53,48,punch
+516,Simipour,Water,air,75,98,63,punch
+517,Munna,Psychic,air,76,25,45,punch
+518,Musharna,Psychic,air,116,55,85,punch
+519,Pidove,Normal,air,50,55,50,punch
+520,Tranquill,Normal,air,62,77,62,punch
+521,Unfezant,Normal,air,80,115,80,punch
+522,Blitzle,Electric,air,45,60,32,punch
+523,Zebstrika,Electric,air,75,100,63,punch
+524,Roggenrola,Rock,air,55,75,85,punch
+525,Boldore,Rock,air,70,105,105,punch
+526,Gigalith,Rock,air,85,135,130,punch
+527,Woobat,Psychic,air,55,45,43,punch
+528,Swoobat,Psychic,air,67,57,55,punch
+529,Drilbur,Ground,air,60,85,40,punch
+530,Excadrill,Ground,air,110,135,60,punch
+531,Audino,Normal,air,103,60,86,punch
+531,AudinoMega Audino,Normal,air,103,60,126,punch
+532,Timburr,Fighting,air,75,80,55,punch
+533,Gurdurr,Fighting,air,85,105,85,punch
+534,Conkeldurr,Fighting,air,105,140,95,punch
+535,Tympole,Water,air,50,50,40,punch
+536,Palpitoad,Water,air,75,65,55,punch
+537,Seismitoad,Water,air,105,95,75,punch
+538,Throh,Fighting,air,120,100,85,punch
+539,Sawk,Fighting,air,75,125,75,punch
+540,Sewaddle,Bug,air,45,53,70,punch
+541,Swadloon,Bug,air,55,63,90,punch
+542,Leavanny,Bug,air,75,103,80,punch
+543,Venipede,Bug,air,30,45,59,punch
+544,Whirlipede,Bug,air,40,55,99,punch
+545,Scolipede,Bug,air,60,100,89,punch
+546,Cottonee,Grass,air,40,27,60,punch
+547,Whimsicott,Grass,air,60,67,85,punch
+548,Petilil,Grass,air,45,35,50,punch
+549,Lilligant,Grass,air,70,60,75,punch
+550,Basculin,Water,air,70,92,65,punch
+551,Sandile,Ground,air,50,72,35,punch
+552,Krokorok,Ground,air,60,82,45,punch
+553,Krookodile,Ground,air,95,117,80,punch
+554,Darumaka,Fire,air,70,90,45,punch
+555,DarmanitanStandard Mode,Fire,air,105,140,55,punch
+555,DarmanitanZen Mode,Fire,air,105,30,105,punch
+556,Maractus,Grass,air,75,86,67,punch
+557,Dwebble,Bug,air,50,65,85,punch
+558,Crustle,Bug,air,70,95,125,punch
+559,Scraggy,Dark,air,50,75,70,punch
+560,Scrafty,Dark,air,65,90,115,punch
+561,Sigilyph,Psychic,air,72,58,80,punch
+562,Yamask,Ghost,air,38,30,85,punch
+563,Cofagrigus,Ghost,air,58,50,145,punch
+564,Tirtouga,Water,air,54,78,103,punch
+565,Carracosta,Water,air,74,108,133,punch
+566,Archen,Rock,air,55,112,45,punch
+567,Archeops,Rock,air,75,140,65,punch
+568,Trubbish,Poison,air,50,50,62,punch
+569,Garbodor,Poison,air,80,95,82,punch
+570,Zorua,Dark,air,40,65,40,punch
+571,Zoroark,Dark,air,60,105,60,punch
+572,Minccino,Normal,air,55,50,40,punch
+573,Cinccino,Normal,air,75,95,60,punch
+574,Gothita,Psychic,air,45,30,50,punch
+575,Gothorita,Psychic,air,60,45,70,punch
+576,Gothitelle,Psychic,air,70,55,95,punch
+577,Solosis,Psychic,air,45,30,40,punch
+578,Duosion,Psychic,air,65,40,50,punch
+579,Reuniclus,Psychic,air,110,65,75,punch
+580,Ducklett,Water,air,62,44,50,punch
+581,Swanna,Water,air,75,87,63,punch
+582,Vanillite,Ice,air,36,50,50,punch
+583,Vanillish,Ice,air,51,65,65,punch
+584,Vanilluxe,Ice,air,71,95,85,punch
+585,Deerling,Normal,air,60,60,50,punch
+586,Sawsbuck,Normal,air,80,100,70,punch
+587,Emolga,Electric,air,55,75,60,punch
+588,Karrablast,Bug,air,50,75,45,punch
+589,Escavalier,Bug,air,70,135,105,punch
+590,Foongus,Grass,air,69,55,45,punch
+591,Amoonguss,Grass,air,114,85,70,punch
+592,Frillish,Water,air,55,40,50,punch
+593,Jellicent,Water,air,100,60,70,punch
+594,Alomomola,Water,air,165,75,80,punch
+595,Joltik,Bug,air,50,47,50,punch
+596,Galvantula,Bug,air,70,77,60,punch
+597,Ferroseed,Grass,air,44,50,91,punch
+598,Ferrothorn,Grass,air,74,94,131,punch
+599,Klink,Steel,air,40,55,70,punch
+600,Klang,Steel,air,60,80,95,punch
+601,Klinklang,Steel,air,60,100,115,punch
+602,Tynamo,Electric,air,35,55,40,punch
+603,Eelektrik,Electric,air,65,85,70,punch
+604,Eelektross,Electric,air,85,115,80,punch
+605,Elgyem,Psychic,air,55,55,55,punch
+606,Beheeyem,Psychic,air,75,75,75,punch
+607,Litwick,Ghost,air,50,30,55,punch
+608,Lampent,Ghost,air,60,40,60,punch
+609,Chandelure,Ghost,air,60,55,90,punch
+610,Axew,Dragon,air,46,87,60,punch
+611,Fraxure,Dragon,air,66,117,70,punch
+612,Haxorus,Dragon,air,76,147,90,punch
+613,Cubchoo,Ice,air,55,70,40,punch
+614,Beartic,Ice,air,95,110,80,punch
+615,Cryogonal,Ice,air,70,50,30,punch
+616,Shelmet,Bug,air,50,40,85,punch
+617,Accelgor,Bug,air,80,70,40,punch
+618,Stunfisk,Ground,air,109,66,84,punch
+619,Mienfoo,Fighting,air,45,85,50,punch
+620,Mienshao,Fighting,air,65,125,60,punch
+621,Druddigon,Dragon,air,77,120,90,punch
+622,Golett,Ground,air,59,74,50,punch
+623,Golurk,Ground,air,89,124,80,punch
+624,Pawniard,Dark,air,45,85,70,punch
+625,Bisharp,Dark,air,65,125,100,punch
+626,Bouffalant,Normal,air,95,110,95,punch
+627,Rufflet,Normal,air,70,83,50,punch
+628,Braviary,Normal,air,100,123,75,punch
+629,Vullaby,Dark,air,70,55,75,punch
+630,Mandibuzz,Dark,air,110,65,105,punch
+631,Heatmor,Fire,air,85,97,66,punch
+632,Durant,Bug,air,58,109,112,punch
+633,Deino,Dark,air,52,65,50,punch
+634,Zweilous,Dark,air,72,85,70,punch
+635,Hydreigon,Dark,air,92,105,90,punch
+636,Larvesta,Bug,air,55,85,55,punch
+637,Volcarona,Bug,air,85,60,65,punch
+638,Cobalion,Steel,air,91,90,129,punch
+639,Terrakion,Rock,air,91,129,90,punch
+640,Virizion,Grass,air,91,90,72,punch
+641,TornadusIncarnate Forme,Flying,air,79,115,70,punch
+641,TornadusTherian Forme,Flying,air,79,100,80,punch
+642,ThundurusIncarnate Forme,Electric,air,79,115,70,punch
+642,ThundurusTherian Forme,Electric,air,79,105,70,punch
+643,Reshiram,Dragon,air,100,120,100,punch
+644,Zekrom,Dragon,air,100,150,120,punch
+645,LandorusIncarnate Forme,Ground,air,89,125,90,punch
+645,LandorusTherian Forme,Ground,air,89,145,90,punch
+646,Kyurem,Dragon,air,125,130,90,punch
+646,KyuremBlack Kyurem,Dragon,air,125,170,100,punch
+646,KyuremWhite Kyurem,Dragon,air,125,120,90,punch
+647,KeldeoOrdinary Forme,Water,air,91,72,90,punch
+647,KeldeoResolute Forme,Water,air,91,72,90,punch
+648,MeloettaAria Forme,Normal,air,100,77,77,punch
+648,MeloettaPirouette Forme,Normal,air,100,128,90,punch
+649,Genesect,Bug,air,71,120,95,punch
+650,Chespin,Grass,air,56,61,65,punch
+651,Quilladin,Grass,air,61,78,95,punch
+652,Chesnaught,Grass,air,88,107,122,punch
+653,Fennekin,Fire,air,40,45,40,punch
+654,Braixen,Fire,air,59,59,58,punch
+655,Delphox,Fire,air,75,69,72,punch
+656,Froakie,Water,air,41,56,40,punch
+657,Frogadier,Water,air,54,63,52,punch
+658,Greninja,Water,air,72,95,67,punch
+659,Bunnelby,Normal,air,38,36,38,punch
+660,Diggersby,Normal,air,85,56,77,punch
+661,Fletchling,Normal,air,45,50,43,punch
+662,Fletchinder,Fire,air,62,73,55,punch
+663,Talonflame,Fire,air,78,81,71,punch
+664,Scatterbug,Bug,air,38,35,40,punch
+665,Spewpa,Bug,air,45,22,60,punch
+666,Vivillon,Bug,air,80,52,50,punch
+667,Litleo,Fire,air,62,50,58,punch
+668,Pyroar,Fire,air,86,68,72,punch
+669,Flabébé,Fairy,air,44,38,39,punch
+670,Floette,Fairy,air,54,45,47,punch
+671,Florges,Fairy,air,78,65,68,punch
+672,Skiddo,Grass,air,66,65,48,punch
+673,Gogoat,Grass,air,123,100,62,punch
+674,Pancham,Fighting,air,67,82,62,punch
+675,Pangoro,Fighting,air,95,124,78,punch
+676,Furfrou,Normal,air,75,80,60,punch
+677,Espurr,Psychic,air,62,48,54,punch
+678,MeowsticMale,Psychic,air,74,48,76,punch
+678,MeowsticFemale,Psychic,air,74,48,76,punch
+679,Honedge,Steel,air,45,80,100,punch
+680,Doublade,Steel,air,59,110,150,punch
+681,AegislashBlade Forme,Steel,air,60,150,50,punch
+681,AegislashShield Forme,Steel,air,60,50,150,punch
+682,Spritzee,Fairy,air,78,52,60,punch
+683,Aromatisse,Fairy,air,101,72,72,punch
+684,Swirlix,Fairy,air,62,48,66,punch
+685,Slurpuff,Fairy,air,82,80,86,punch
+686,Inkay,Dark,air,53,54,53,punch
+687,Malamar,Dark,air,86,92,88,punch
+688,Binacle,Rock,air,42,52,67,punch
+689,Barbaracle,Rock,air,72,105,115,punch
+690,Skrelp,Poison,air,50,60,60,punch
+691,Dragalge,Poison,air,65,75,90,punch
+692,Clauncher,Water,air,50,53,62,punch
+693,Clawitzer,Water,air,71,73,88,punch
+694,Helioptile,Electric,air,44,38,33,punch
+695,Heliolisk,Electric,air,62,55,52,punch
+696,Tyrunt,Rock,air,58,89,77,punch
+697,Tyrantrum,Rock,air,82,121,119,punch
+698,Amaura,Rock,air,77,59,50,punch
+699,Aurorus,Rock,air,123,77,72,punch
+700,Sylveon,Fairy,air,95,65,65,punch
+701,Hawlucha,Fighting,air,78,92,75,punch
+702,Dedenne,Electric,air,67,58,57,punch
+703,Carbink,Rock,air,50,50,150,punch
+704,Goomy,Dragon,air,45,50,35,punch
+705,Sliggoo,Dragon,air,68,75,53,punch
+706,Goodra,Dragon,air,90,100,70,punch
+707,Klefki,Steel,air,57,80,91,punch
+708,Phantump,Ghost,air,43,70,48,punch
+709,Trevenant,Ghost,air,85,110,76,punch
+710,PumpkabooAverage Size,Ghost,air,49,66,70,punch
+710,PumpkabooSmall Size,Ghost,air,44,66,70,punch
+710,PumpkabooLarge Size,Ghost,air,54,66,70,punch
+710,PumpkabooSuper Size,Ghost,air,59,66,70,punch
+711,GourgeistAverage Size,Ghost,air,65,90,122,punch
+711,GourgeistSmall Size,Ghost,air,55,85,122,punch
+711,GourgeistLarge Size,Ghost,air,75,95,122,punch
+711,GourgeistSuper Size,Ghost,air,85,100,122,punch
+712,Bergmite,Ice,air,55,69,85,punch
+713,Avalugg,Ice,air,95,117,184,punch
+714,Noibat,Flying,air,40,30,35,punch
+715,Noivern,Flying,air,85,70,80,punch
+716,Xerneas,Fairy,air,126,131,95,punch
+717,Yveltal,Dark,air,126,131,95,punch
+718,Zygarde50% Forme,Dragon,air,108,100,121,punch
+719,Diancie,Rock,air,50,100,150,punch
+719,DiancieMega Diancie,Rock,air,50,160,110,punch
+720,HoopaHoopa Confined,Psychic,air,80,110,60,punch
+720,HoopaHoopa Unbound,Psychic,air,80,160,60,punch
+721,Volcanion,Fire,air,80,110,120,punch

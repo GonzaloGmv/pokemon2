@@ -19,7 +19,4 @@ for i in range(len(dato['Type 1'])):
     lista.append('punch')
 
 dato.insert(5, "weapon", lista, allow_duplicates=False)
-
 dato.to_csv('nuevo.csv')
-
-print(dato)

@@ -5,6 +5,7 @@ dato = pd.read_csv("Pokemon.csv", header= 0, sep= ",")
 
 
 del([dato['Type 2']])
+del([dato['HP']])
 del([dato['Sp. Atk']])
 del([dato['Sp. Def']])
 del([dato['Speed']])

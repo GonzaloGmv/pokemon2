@@ -76,9 +76,9 @@ def get_data_from_user(name_file):
             coach_pokemon = Pokemon(int(temp_pokemon_csv[0]),
                                     temp_pokemon_csv[1],
                                     WeaponType.from_str(temp_pokemon_csv[2]),
-                                    int(temp_pokemon_csv[3]),
                                     int(temp_pokemon_csv[4]),
-                                    int(temp_pokemon_csv[5]))
+                                    int(temp_pokemon_csv[5]),
+                                    int(temp_pokemon_csv[6]))
 
             set_of_pokemons.append(coach_pokemon)
 
@@ -204,11 +204,11 @@ def main():
 
     # Get configuration for Game User 1.
     print("For Game User 1: \n")
-    game_user_1 = get_data_from_user("coach_1_pokemons.csv")
+    game_user_1 = get_data_from_user("Pokemon.csv")
 
     # Get configuration for Game User 2.
     print("For Game User 2: \n")
-    game_user_2 = get_data_from_user("coach_2_pokemons.csv")
+    game_user_2 = get_data_from_user("Pokemon.csv")
 
     print("------------------------------------------------------------------")
     print("The Game starts...")
